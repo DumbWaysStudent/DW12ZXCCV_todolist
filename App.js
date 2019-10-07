@@ -1,5 +1,5 @@
 import React from 'react';
-import Todos from './screens/Todos';
+import Todos from './src/screens/Todos';
 function App() {
   return (
     <Todos />
